@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\6.entity\\assignment1\\assignment1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\6.entity\\assignment1\\assignment1\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\6.entity\\assignment1\\assignment1\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\6.entity\\assignment1\\assignment1\\entities\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\entities\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\6.entity\\assignment1\\assignment1\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\6.entity\\assignment1\\assignment1\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\6.entity\\assignment1\\assignment1\\entities\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\entities\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\6.entity\\assignment1\\assignment1\\migrations\\20240815110516_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\migrations\\20240815110516_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\6.entity\\assignment1\\assignment1\\migrations\\itidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\migrations\\itidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\6.entity\\assignment1\\assignment1\\dbcontext\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\dbcontext\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\6.entity\\assignment1\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7D7284-3025-47E9-8638-E5C5C98B6235}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Student.cs",
+              "RelativeToolTip": "Assignment1\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:05:04.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stud_Course.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Stud_Course.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Entities\\Stud_Course.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Stud_Course.cs",
+              "RelativeToolTip": "Assignment1\\Entities\\Stud_Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:04:58.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Entities\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Instructor.cs",
+              "RelativeToolTip": "Assignment1\\Entities\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:04:57.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Department.cs",
+              "RelativeToolTip": "Assignment1\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:04:56.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course_Inst.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Course_Inst.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Entities\\Course_Inst.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Course_Inst.cs",
+              "RelativeToolTip": "Assignment1\\Entities\\Course_Inst.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:58:01.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Course.cs",
+              "RelativeToolTip": "Assignment1\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:04:52.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Topic.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Entities\\Topic.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Entities\\Topic.cs",
+              "RelativeToolTip": "Assignment1\\Entities\\Topic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:05:06.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240815110516_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Migrations\\20240815110516_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Migrations\\20240815110516_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Migrations\\20240815110516_InitialCreate.cs",
+              "RelativeToolTip": "Assignment1\\Migrations\\20240815110516_InitialCreate.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:05:16.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITIDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Migrations\\ITIDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Migrations\\ITIDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Migrations\\ITIDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Assignment1\\Migrations\\ITIDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:13:47.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\DBContext\\ITIDbContext.cs",
+              "RelativeDocumentMoniker": "Assignment1\\DBContext\\ITIDbContext.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\DBContext\\ITIDbContext.cs",
+              "RelativeToolTip": "Assignment1\\DBContext\\ITIDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:07:33.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\6.Entity\\Assignment1\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:33:59.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
